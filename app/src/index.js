@@ -2,7 +2,7 @@ import Web3 from "web3";
 import votingArtifact from "../../build/contracts/Voting.json";
 
 
-let candidates = { "Rama": "candidate-1", "Nick": "candidate-2", "Jose": "candidate-3" };
+let candidates = { "Obama": "candidate-1", "Donal Trump": "candidate-2", "Clinton": "candidate-3" };
 
 const App = {
   web3: null,
